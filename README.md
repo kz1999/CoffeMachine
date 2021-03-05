@@ -1,0 +1,2 @@
+# CoffeMachine
+JetBrainsAcademy project
